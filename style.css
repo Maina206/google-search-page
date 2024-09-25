@@ -1,0 +1,129 @@
+* {
+    margin: 5px;
+}
+
+
+main {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 75px;
+    /* margin: 180px; */
+}
+
+#google {
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+#g-1 {
+    color: blue;
+    font-size: 5rem;
+}
+
+#o-1 {
+    color: red;
+    font-size: 5rem;
+}
+
+#o-2 {
+    color: orange;
+    font-size: 5rem;
+}
+
+#g-2 {
+    color: blue;
+    font-size: 5rem;
+}
+
+#l {
+    color: green;
+    font-size: 5rem;
+}
+
+#e {
+    color: red;
+    font-size: 5rem;
+}
+
+
+#search-bar {
+    display: flex;
+    align-items: center;
+    /* width: 80%; */
+    border: .8px solid grey;
+    border-radius: 5rem;
+}
+
+#search-input {
+    flex-grow: 1;
+    border: none;
+    outline: none; 
+    padding: 10px;
+}
+
+#search-bar img {
+    float: right;
+    cursor: pointer; 
+    margin-left: 10px;
+}
+
+#search-buttons {
+    margin-top: 20px;
+}
+
+#search-buttons button {
+    border-radius: 10px;
+    border-style: none;
+    padding: 15px;
+}
+
+#language-change {
+    margin-top: 20px;
+}
+
+#footer {
+    background-color: rgb(223, 223, 220);
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+#kenya {
+    padding: 20px;
+}
+
+#footer-link {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+#footer-buttons {
+    margin-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    /* border: 2px solid red; */
+}
+
+#footer-buttons1 {
+    display: inline-flex;
+    flex: 60%;
+    margin-left: 40px;
+    /* justify-content: space-evenly; */
+}
+
+#footer-buttons1 p {
+    margin-right: 30px;
+}
+
+#footer-buttons2 {
+    display: inline-flex;
+    flex: 40%;
+    /* border: 2px solid red; */
+    /* justify-content: space-evenly; */
+}
+
+
+
+
