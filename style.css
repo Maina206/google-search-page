@@ -1,14 +1,16 @@
 * {
-    margin: 5px;
+    /* margin: 5px; */
+    /* color: white;
+    background-color: #3c4043; */
 }
 
 
 main {
     text-align: center;
     margin-top: 150px;
-    margin-left: 350px;
-    margin-right: 350px;
-    margin-bottom: 75px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 350px;
     /* margin: 180px; */
 }
 
